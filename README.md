@@ -1,10 +1,10 @@
-###file-store
+### file-store
 This is a file-store web application built using React.js on the frontend, Node.js on the backend, and MongoDB for data storage.
 
-##Features
-#User Management:
+## Features
+# User Management:
 Signup/Signin/Edit Profile/Logout
-#File Management:
+# File Management:
 Save Files 
 Delete Files
 Show Files 
@@ -13,27 +13,27 @@ Search Files
 Create Folders (for File Organization)
 Pagination (for Large Datasets)
 
-##Technologies Used
-#Frontend:
+## Technologies Used
+# Frontend:
 React.js
-#Backend:
+# Backend:
 Node.js, Express.js
-#Database:
+# Database:
 MongoDB
 
-##Usage
-#User Management:
+## Usage
+# User Management:
 Create a new account using the Signup functionality.
 Login with your credentials.
 Edit your profile information as needed.
 Logout to end your session.
 
-#File Management:
+#  Management:
 Upload files using the file selection.
 Organize files within folders (to be implemented).
 Search for files by name or metadata.
 View files directly in the browser (if supported) or download them.
 Delete unwanted files.
 
-##Additional Notes
+## Additional Notes
 This is a work-in-progress project.
